@@ -1,2 +1,2 @@
 # UniOs-Project
-linux os with ubuntu unity and flathub along with distrobox makes a new experience
+want to experience an immutable os with Unity 7 desktop environment powered by flathub and distrobox makes this os your choice.
